@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" profiles="urn:mpeg:dash:profile:isoff-live:2011" timeShiftBufferDepth="PT222041H32M4S" type="dynamic" minimumUpdatePeriod="PT32S" availabilityStartTime="2001-01-01T00:00:00.000Z" maxSegmentDuration="PT6S" minBufferTime="PT4S" publishTime="2001-01-01T00:00:00.000Z">
-	<BaseURL>https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8</BaseURL>
+	<BaseURL>https://redcdnpl-ncp.github.io/livehls/o2/tvnplayer/live/fast_top_movies_polska/live.isml/playlist.m3u8</BaseURL>
 	<UTCTiming schemeIdUri="urn:mpeg:dash:utc:http-head:2014" value="https://r.dcs.redcdn.pl/utc" />
 	<Period sequence="0" start="PT0S" />
 </MPD>
