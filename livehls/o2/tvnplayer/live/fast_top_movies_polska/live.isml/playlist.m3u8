@@ -1,4 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=828000,RESOLUTION=576x324,NAME="720p"
-https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+#EXT-X-MEDIA:LANGUAGE="POL",AUTOSELECT=YES,FORCED=NO,TYPE=SUBTITLES,URI="https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/f5a5aa9c-abe1-49a5-abef-aea27997a420/5.m3u8",GROUP-ID="subtitle",DEFAULT=YES,NAME="pol_full"
+#EXT-X-MEDIA:LANGUAGE="POL",AUTOSELECT=NO,FORCED=YES,TYPE=SUBTITLES,URI="https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/f5a5aa9c-abe1-49a5-abef-aea27997a420/6.m3u8",GROUP-ID="subtitle",DEFAULT=NO,NAME="pol_forced"
+#EXT-X-STREAM-INF:CODECS="avc1.4D4015,mp4a.40.2",AVERAGE-BANDWIDTH=535620,RESOLUTION=448x252,SUBTITLES="subtitle",FRAME-RATE=25.0,BANDWIDTH=587183
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/f5a5aa9c-abe1-49a5-abef-aea27997a420/0.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4D401E,mp4a.40.2",AVERAGE-BANDWIDTH=915161,RESOLUTION=768x432,SUBTITLES="subtitle",FRAME-RATE=25.0,BANDWIDTH=1000563
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/f5a5aa9c-abe1-49a5-abef-aea27997a420/1.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4D401E,mp4a.40.2",AVERAGE-BANDWIDTH=1468335,RESOLUTION=768x432,SUBTITLES="subtitle",FRAME-RATE=25.0,BANDWIDTH=1602469
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/f5a5aa9c-abe1-49a5-abef-aea27997a420/2.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4D401F,mp4a.40.2",AVERAGE-BANDWIDTH=2645045,RESOLUTION=1280x720,SUBTITLES="subtitle",FRAME-RATE=25.0,BANDWIDTH=2883756
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/f5a5aa9c-abe1-49a5-abef-aea27997a420/3.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4D4028,mp4a.40.2",AVERAGE-BANDWIDTH=4622873,RESOLUTION=1920x1080,SUBTITLES="subtitle",FRAME-RATE=25.0,BANDWIDTH=5035933
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/f5a5aa9c-abe1-49a5-abef-aea27997a420/4.m3u8
